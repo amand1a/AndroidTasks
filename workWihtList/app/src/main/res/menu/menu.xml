@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstListFragment"
+        android:title="first"
+        android:icon="@drawable/baseline_bookmark_24"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/secondListFragment"
+        android:title="second"
+        android:icon="@drawable/baseline_bookmark_24"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/thirdListActivity"
+        android:title="third"
+        android:icon="@drawable/baseline_bookmark_24"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/fourthListFragment"
+        android:title="fourth"
+        android:icon="@drawable/baseline_bookmark_24"
+        android:enabled="true" />
+    <item
+        android:id="@+id/fifthListFragment"
+        android:title="fifth"
+        android:icon="@drawable/baseline_bookmark_24"
+        android:enabled="true"/>
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/firstListFragment">
+
+    <fragment
+        android:id="@+id/fifthListFragment"
+        android:name="com.example.workwithlist.FifthListFragment"
+        android:label="FifthListFragment" />
+    <fragment
+        android:id="@+id/firstListFragment"
+        android:name="com.example.workwithlist.FirstListFragment"
+        android:label="FirstListFragmen" />
+    <fragment
+        android:id="@+id/secondListFragment"
+        android:name="com.example.workwithlist.SecondListFragment"
+        android:label="SecondListFragment" />
+    <fragment
+        android:id="@+id/thirdListActivity"
+        android:name="com.example.workwithlist.ThirdListFragment"
+        android:label="ThirdListActivity" />
+    <fragment
+        android:id="@+id/fourthListFragment"
+        android:name="com.example.workwithlist.FourthListFragment"
+        android:label="FourthListFragment" />
+</navigation>

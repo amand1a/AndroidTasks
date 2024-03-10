@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">navigation</string>
+    <string name="first_nav_button">first screen</string>
+    <string name="second_nav_button">second screen</string>
+    <string name="third_nav_button">third screen</string>
+    <string name="button_show_image">image</string>
+    <string name="button_show_text">text</string>
+    <string name="button_add_alpha">raise alpha</string>
+    <string name="button_lower_alpha">lower alpha</string>
+</resources>
